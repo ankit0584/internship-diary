@@ -1,0 +1,14 @@
+﻿# Build output
+bin/
+obj/
+
+# Secrets
+appsettings.json
+appsettings.Development.json
+
+# Visual Studio
+.vs/
+*.user
+
+# Uploads folder contents (videos)
+Uploads/
